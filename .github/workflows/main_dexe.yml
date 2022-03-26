@@ -49,5 +49,5 @@ jobs:
         with:
           app-name: 'dexe'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_E4DB1ECD46CD45D39D3B83AC9478B57D }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_593B046F1BC64CDCA26AC6E6B17CF25B }}
           package: '*.jar'
